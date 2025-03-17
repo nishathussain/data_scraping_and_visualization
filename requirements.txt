@@ -2,5 +2,7 @@ plotly
 pandas
 openpyxl
 xlrd
+lxml
 scikit-learn
 kaleido
+requests
