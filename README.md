@@ -50,6 +50,9 @@ Above image shows the boxplot of monthly deviation with varying forecast horizon
 ### Line plot showing each forecasting iteration
 ![Line plot for each forecasting iteration](assignment_part1/plots/line_plot_of_each_forecasting_iteration.png) <br>
 <br><br>
+
+## Summary Table
+
 And the './summary_table.csv' shows the overall summary in a tabular format with dates as (Jan 23, Feb 23.. format) 
 
 | ****             | **forecast** | **forecast** | **forecast** | **forecast** | **forecast** | **forecast** | **forecast** | **forecast** | **forecast** | **forecast** | **forecast** | **forecast** | **forecast** | **forecast** | **forecast** | **forecast** | **forecast** | **forecast** | **forecast** | **forecast** | **forecast** | **forecast** | **forecast** | **forecast** |
