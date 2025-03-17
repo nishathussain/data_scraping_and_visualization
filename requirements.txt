@@ -1,0 +1,6 @@
+plotly
+pandas
+openpyxl
+xlrd
+scikit-learn
+kaleido
