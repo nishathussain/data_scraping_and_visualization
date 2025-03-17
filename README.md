@@ -114,7 +114,7 @@ Below Table shows the results
 | median | 131.0 thousand barrels|
 | mean | 1428.935166994106 thousand barrels|
 
-![Line plot for each forecasting iteration](assignment_part1/plots/comaprision_of_aggrWeekly_against_monthly.png) <br>
+![Line plot for each forecasting iteration](assignment_part2/plots/comaprision_of_aggrWeekly_against_monthly.png) <br>
 Above plot shows comparison of ```“monthly from weekly data"``` against ```“monthly data”```. The plot is mathing quite well hence validating correctness of the calculation.
 
 ## Q: Use the more timely weekly data to estimate the lagged monthly data. (Train a logisticRegression model)
